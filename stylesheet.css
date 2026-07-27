@@ -55,3 +55,27 @@ body {
 .input-group input::placeholder {
     color: rgba(255, 255, 255, 0.4);
 }
+
+.input-group input:focus {
+    border-color: #ffffff;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+
+.input-group i{
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    margin: -5px 0 20px;
+
+
+}

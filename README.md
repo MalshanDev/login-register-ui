@@ -49,13 +49,10 @@ Add your screenshot here:
 ![Login Page](images/login-page.png)
 ```
 
-### Registration Page
+### Registration Pag
 
-Add your screenshot here:
+![Registration Page](registerForm.png)
 
-```markdown
-![Registration Page](images/registration-page.png)
-```
 
 > Create an `images` folder inside your project and place your screenshots there.
 

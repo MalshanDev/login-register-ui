@@ -49,7 +49,7 @@ Add your screenshot here:
 ![Login Page](loginForm.png)
 
 
-### Registration Pag
+### Registration Page
 
 ![Registration Page](registerForm.png)
 

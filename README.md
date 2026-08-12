@@ -45,9 +45,9 @@ Login-Register/
 
 Add your screenshot here:
 
-```markdown
-![Login Page](images/login-page.png)
-```
+
+![Login Page](loginForm.png)
+
 
 ### Registration Pag
 
@@ -128,13 +128,13 @@ You can also use **VS Code Live Server** for easier development.
 
 You can add screenshots like this:
 
-```markdown
+
 ## Screenshots
 
-![Login UI](images/login-page.png)
+![Login UI](LoginUI.png)
 
-![Registration UI](images/register-page.png)
-```
+![Registration UI](RegisterUI.png)
+
 
 ## 📚 What I Learned
 
@@ -176,7 +176,7 @@ Computer Science Undergraduate | Aspiring AI Software Engineer | Full-Stack Deve
 ### Connect With Me
 
 * GitHub: [@MalshanDev](https://github.com/MalshanDev)
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: www.linkedin.com/in/nadeesha-malshan-1588-nmk
 
 ---
 
